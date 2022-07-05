@@ -1,0 +1,21 @@
+
+.first_p {
+  display: inline; /* the default for span */
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+}
+
+.second_p {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  background-color: yellow;
+}
+
+.third_p {
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+}
